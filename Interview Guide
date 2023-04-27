@@ -1,0 +1,117 @@
+ED Smart Notifications Aim 3: Receiving Early Feedback
+Semi-structured Interview/Focus Group Agenda 
+The intent of these semi-structured interviews or focus groups is to gather information that can be used to gauge the effectiveness of the recent implementation of a notification system within the electronic health record (EHR) that is capable of alerting ED physicians about high-risk patients at time-of-care. The overarching project goal is to improve care for vulnerable patients in Rhode Island (RI) by 1) enabling early recognition of patients at risk of ED recidivism and opioid overdose and by 2) facilitating linkages to complex care resources. 
+
+These semi-structured interviews or focus groups are designed to get feedback from the target population on:  
+o	Prior Understanding of predictive analytics
+o	Awareness of EDSN implementation
+o	Acceptability of the model-generated data 
+o	Clinical applications of the alerts
+o	Feedback on notification display and content
+o	Intervention placement within the ED workflow
+o	User-experience with current format 
+
+This agenda is intended to guide facilitators through the key content areas of data collection for this project, ensuring that the same content is discussed in each semi-structured interview or focus group.  While the agenda is used to guide the discussion, it is not a rigid script that must be adhered to verbatim.  This ensures that the facilitator gathers data on the same topics in each group, while also allowing the flexibility to adapt and clarify questions to suit the needs of different group members.  Similarly, questions need not be asked in this particular order.  Rather, the facilitator will adapt the conversation as needed according to the narrative within each group, pursuing both the a priori research topics as well as any emergent relevant themes that evolve from the discussion. 
+
+Project size and staff: Interviewers will conduct semi-structured interviews or hold 3-4 focus groups with physicians and advance practice providers who currently work in Lifespan EDs [Rhode Island Hospital (RIH), The Miriam Hospital (TMH), or Newport Hospital]. The research team will recruit in person at faculty meetings and resident conferences, and also electronically, via departmental email listserv. Those who were interviewed before launch will be reached out to follow-up on their thoughts. Additional participants will also be recruited as needed, to reach saturation on themes. We anticipate interviewing approximately 15 providers; we will continue interviews until saturation is reached Prospective participants will be asked to submit a demographics questionnaire. We will enroll ED providers for interviews or focus groups from among survey participants to purposefully ensure an equal distribution of gender, expertise and time-practicing. Individual, semi-structured interviews or focus groups consisting of 4-6 clinicians will be held at RIH, TMH, and Newport Hospital.  
+
+Data collection and preliminary analysis: Each interview will last approximately 45-60 minutes and each focus group will last approximately 60-75 minutes. The interviewer will conduct verbal informed consent procedures at the start of each interview or focus group and will audio record all subject interviews or focus groups. Research assistants will assist with note-taking. The interviewer or group facilitator will use a structured debriefing form to write a brief synopsis of the interview or focus group process, content, and observations/potential themes immediately following each session. The form will also include a reflection section with suggestions for future groups and revisions to the interview guide and model layout mockups. Each interview or focus group will be transcribed and then reviewed by Dr. Ranney or her designee, who will make modifications to the debriefing summary as needed. The summaries, along with the list of common themes, will serve as the basis for a composite report containing the preliminary results of the semi-structured interviews or focus groups for the research team to review. Participants are identified by their study ID number in reports and transcripts and by first name during the interviews or focus groups. All personal identifiers will be replaced in the transcripts once the interviewer has reviewed and cleaned transcripts and confirmed accuracy of all data. That is, ID numbers replace first names and other proper names (e.g., names of colleagues, etc.) are replaced with generic labels (e.g., “Dr. Brown” is replaced with “[ID1234’s attending]” and “Rhode Island Hospital” is replaced with “[ID1234’s workplace”]. 
+
+Equipment requirements: Two solid state field recorders, notepads and pens, Kleenex, and printouts of verbal consent script and additional study addendum. The “voice activation” feature for the recorder should be turned OFF prior to all interviews.
+
+Interview process: There are two primary types of questions noted in the agenda: open-ended, “lead” questions and probes which can be less open-ended. Both leads and probes are intended to guide the facilitator to gather all the data investigators are seeking. They are not meant to be used verbatim. Each facilitator should consider the best way to gather the data and rephrase questions to address intents, local cultural norms and practices, and the individual factors presented by the respondents. 
+WELCOME AND INFORMED CONSENT (Part 0, 5 Minutes)
+Intent: The goal of this section is to welcome participants and to obtain informed consent. We explain the goals of this research study and how it relates to the overarching pilot project, so that participants can fully understand the scope of the intervention. We will also discuss interview or focus group logistics, confidentiality and compensation. Our goal is to make participants feel comfortable with sharing their experiences and opinions. 
+1.	Thank them for coming 
+2.	Introduce self (facilitator)  
+3.	Using verbal consent script below, obtain informed consent from participants. 
+a.	Purpose of the study 
+i.	“The goal of this intervention is to improve care for patients in RI by developing a predictive analytics-driven notification system. The goal of the first aim of the study was to create a predictive model that facilitates the accurate identification of patients at high risk of ED recidivism and opiate overdose by emergency physicians in real-time. The goal of the second aim was to conduct interviews and focus groups to determine how best to present the notifications within Epic. Now that these alerts have gone live, the goal of this third aim is to conduct further interviews and focus groups to better understand how the alerts are functioning, and how they can be improved 
+ii.	Of note, this research may reveal key understandings related to the design and implementation of ED workflow interventions and may improve care for vulnerable patient populations in RI.
+b.	Interview or focus group logistics and confidentiality 
+i.	Today you will be participating in an interview, which should take approximately 30 minutes. Your participation in the study is voluntary and not linked to performance evaluations. If you do not wish to participate, you may stop at any time. 
+ii.	The individual, semi-structured interviews will be documented using two audio recorders and hand written notes. All researchers are required to maintain the privacy of information disclosed in the semi-structured interview, and this information will remain confidential unless the subject threatens to harm themselves (suicidal thoughts) or others (homicidal thoughts).  
+iii.	Recordings and transcripts will be stored on a secure Lifespan drive in a password-protected folder,be a bit more informal, summarize and study IDs will be used to link individual participants. Personal identifiers in the recordings will be de-identified prior to reporting. The final analyzed results will be published in aggregate, so it will not be possible to track any data back to specific individuals. Audio-recordings and transcripts of the interview or focus group will be destroyed after the publication of our findings.
+iv.	You will be compensated with a $20 Amazon gift card for your participation in this interview. 
+c.	Confirm comprehension 
+i.	Do you understand the information that I’ve covered so far? 
+ii.	What questions do you have?
+d.	Obtain informed consent
+i.	Do you agree to volunteer as a research participant for this study?
+e.	Additional information 
+i.	 If you have a question specific to your rights as a participant in this research study, you can contact Research Protection Office (RPO) Committees for the Protection of Human Subjects at 401-444-3527. Finally, please let me know if you have any other questions or would like a copy of the consent information that I have just relayed.” Maybe a bit repetitive.
+4.	They are the ones who will be utilizing this intervention, so only they can tell us how effective and helpful the EHR-based notification system has been so far, and what could be done to make it better. 
+5.	Their clinical expertise and experiences with patients and the EHR will be critical in assessing the utility, integration and acceptability of the alerts. 
+6.	All feedback is welcome; we want them to share their perspectives and honest opinions so that we can continue to make this a helpful tool for ED providers!
+7.	Answer questions
+
+Basic Demographic Info (Part A, 5 Minutes)
+Intent: The purpose of Part A is to understand the background of the interviewee. Gaining more knowledge about their history with working with this high-risk population as well as their experience working within an HER can help contextualize the answers they provide for the utility of the EDSN program
+o	Now I’m going to turn on the recorder
+o	Which ED do you spend the most time in?
+o	How long have you been a practicing ER physician?
+o	How often do you work in the ED?
+o	What shifts do you primarily work?
+
+Prior knowledge of predictive analytics (Part B, 5 Minutes)
+Intent: The intent of section B is to gauge provider understanding and acceptability of predictive analytics in medicine. By exploring these topics, we hope to be able to establish a comparison between this intervention and other predictive analytics interventions these physicians have seen in their practice
+o	What is your experience with predictive analytics?
+	Additional Question: Where?
+	Additional Question: How?
+	Additional Question: What is the (perceived) effectiveness?
+Introduction to this project (Part C, 5 Minutes)
+Intent: The intent of Part C is to understand how the interviewee got introduced to the EDSN project, and to see how they believe it was modelled. Further, this part should be used to gauge how familiar these physicians are with seeing the notifications in their clinical practice, and how that familiarity has been received by them.
+o	Are you aware of the EDSN implementation?
+	Probe: If so, how were you initially made aware of it?
+o	How do you think they were designed? (what was the process?)
+o	Have you noticed it in your clinical practice?
+o	Tell me about when you notice it
+	Additional Question: With what frequency have you noticed it?
+	Additional Question: Does this frequency surprise you?
+o	Tell me about how the notifications have affected your workflow?
+	Probe: If so, how?
+Placement/Design/Content (Part D, 5 Minutes)
+Intent: The purpose of this section is to obtain feedback on how the intervention is currently presented and if there are specific recommendations about how to further improve it. We want to treat the participants as experts in the kind of information they need and want, and make them partners in this design process.
+o	We’re going to first talk about the placement of the alerts.
+	Do you have any thoughts on the placement of the notification?
+•	What are those thoughts of the placement?
+	Would it be better placed elsewhere in your workflow or the EHR sequence?
+	On the screen that it is displayed on, do you have any issues with where it comes up?
+•	What issues were they?
+	If we could change the placement moving forward, where would you put it?
+o	Now, let’s talk about the design of the alerts.
+	Do you have any thoughts on the design of the notification?
+o	 Third, I’d appreciate your input on the content of the alerts.
+	Do you have any thoughts on the content of the notification?
+	Is the wording confusing?
+	Is the call-to-action clear based on the content in the notification?
+Impact (Part E, 10 Minutes)
+Intent: The purpose of this section is to better understand how the EDSN program has impacted clinician’s decision-making. If it does, understanding how it is doing so offers options to enhance the tool into the future to emphasize what is resonating with physicians. For the instances that this program doesn’t influence decision-making, understanding why can help to refine this tool to limit clicks and improve engagement. Ideally, this section gauges the incremental impact of the tool and if the tool has been a net-positive for the clinician. 
+o	Has the notification changed how you interact with these high-risk patients?
+	Probe: If so, how?
+	Probe: If no, why not?
+o	How does the EDSN influence your referral patterns?
+o	Does the notification always influence your decisions?
+	Probe: When it doesn’t, why doesn’t it?
+	Additional Question: How often does this take place?
+	Additional Question: Does it change your next step?
+o	Are there overarching reasons why you ignore the notification?
+	Probe: Tell me about why you disregard the alert when you do?
+o	Do you already know patients are high-risk before the notification pops up?
+	Additional Question: Do you believe the model is properly calibrated?
+Summary (Part F, 5 Minutes)
+Intent: The purpose of this final substantive section is to allow the interviewee to disclose any overarching thoughts about the tool that did not come up from previous questioning. It is important to know if this program has helped these physicians in improving care to this population. Additional praise or constructive criticism that comes outside of the previous questions can help improve subsequent interviews.
+o	Has the EDSN improved your diagnostic capabilities?
+	Probe: Why/why not?
+o	Could you see such a system work for other high-risk populations?
+	Probe: If so, which ones?
+	Probe: If no, why not?
+o	Do you have any final things you’d like to say or suggestions for further iterations?
+Closing (Part G, 5 Minutes)
+o	Thank them!
+•	“Thank so much for your time and help in making this project successful! It is incredibly valuable for us to be able to talk with you and to get your expert insights! Any final questions regarding the proposed program, in general?”
+o	Reimbursement, receipt, parking validation, etc. 
+Post-group (Part H, 5 Minutes)
+o	Room clean-up & break-down 
+o	Debrief
+REDCAP
